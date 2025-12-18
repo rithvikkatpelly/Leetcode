@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/rithvikkatpelly/Leetcode/tree/master/0259-3sum-smaller) |
 | [0277-find-the-celebrity](https://github.com/rithvikkatpelly/Leetcode/tree/master/0277-find-the-celebrity) |
+| [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0259-3sum-smaller](https://github.com/rithvikkatpelly/Leetcode/tree/master/0259-3sum-smaller) |
 | [0274-h-index](https://github.com/rithvikkatpelly/Leetcode/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/rithvikkatpelly/Leetcode/tree/master/0280-wiggle-sort) |
+| [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/rithvikkatpelly/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## String Matching
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rithvikkatpelly/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rithvikkatpelly/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/rithvikkatpelly/Leetcode/tree/master/0277-find-the-celebrity) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
