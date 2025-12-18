@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/rithvikkatpelly/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rithvikkatpelly/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rithvikkatpelly/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/rithvikkatpelly/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/rithvikkatpelly/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rithvikkatpelly/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/rithvikkatpelly/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rithvikkatpelly/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rithvikkatpelly/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rithvikkatpelly/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
