@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rithvikkatpelly/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rithvikkatpelly/Leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rithvikkatpelly/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rithvikkatpelly/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
