@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0148-sort-list) |
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/rithvikkatpelly/Leetcode/tree/master/0259-3sum-smaller) |
+| [0277-find-the-celebrity](https://github.com/rithvikkatpelly/Leetcode/tree/master/0277-find-the-celebrity) |
 ## Greedy
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rithvikkatpelly/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
+| [0277-find-the-celebrity](https://github.com/rithvikkatpelly/Leetcode/tree/master/0277-find-the-celebrity) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rithvikkatpelly/Leetcode/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/rithvikkatpelly/Leetcode/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
