@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rithvikkatpelly/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0242-valid-anagram) |
+| [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 | [0686-repeated-string-match](https://github.com/rithvikkatpelly/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0796-rotate-string) |
 ## Dynamic Programming
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/rithvikkatpelly/Leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/rithvikkatpelly/Leetcode/tree/master/0259-3sum-smaller) |
+| [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -231,18 +233,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rithvikkatpelly/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rithvikkatpelly/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rithvikkatpelly/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -262,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/rithvikkatpelly/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 ## Ordered Set
 |  |
 | ------- |
