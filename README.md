@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/rithvikkatpelly/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/rithvikkatpelly/Leetcode/tree/master/0482-license-key-formatting) |
 | [0686-repeated-string-match](https://github.com/rithvikkatpelly/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0796-rotate-string) |
 ## Dynamic Programming
