@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/rithvikkatpelly/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rithvikkatpelly/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0229-majority-element-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/rithvikkatpelly/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rithvikkatpelly/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0229-majority-element-ii) |
@@ -242,12 +244,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rithvikkatpelly/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rithvikkatpelly/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rithvikkatpelly/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rithvikkatpelly/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rithvikkatpelly/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
