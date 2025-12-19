@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0360-sort-transformed-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/rithvikkatpelly/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rithvikkatpelly/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0406-queue-reconstruction-by-height](https://github.com/rithvikkatpelly/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0360-sort-transformed-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/rithvikkatpelly/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/rithvikkatpelly/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/rithvikkatpelly/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## String Matching
@@ -369,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rithvikkatpelly/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/rithvikkatpelly/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/rithvikkatpelly/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
