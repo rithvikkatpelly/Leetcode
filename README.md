@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
 | [0360-sort-transformed-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/rithvikkatpelly/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0633-sum-of-square-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0360-sort-transformed-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0360-sort-transformed-array) |
+| [0633-sum-of-square-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0259-3sum-smaller](https://github.com/rithvikkatpelly/Leetcode/tree/master/0259-3sum-smaller) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/rithvikkatpelly/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0633-sum-of-square-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/rithvikkatpelly/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Counting Sort
