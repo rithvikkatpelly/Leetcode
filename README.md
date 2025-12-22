@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rithvikkatpelly/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/rithvikkatpelly/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rithvikkatpelly/Leetcode/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/rithvikkatpelly/Leetcode/tree/master/0686-repeated-string-match) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0360-sort-transformed-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0360-sort-transformed-array) |
+| [0481-magical-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
