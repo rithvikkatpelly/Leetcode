@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rithvikkatpelly/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0229-majority-element-ii) |
 | [0252-meeting-rooms](https://github.com/rithvikkatpelly/Leetcode/tree/master/0252-meeting-rooms) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rithvikkatpelly/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rithvikkatpelly/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rithvikkatpelly/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Monotonic Stack
