@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/rithvikkatpelly/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/rithvikkatpelly/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/rithvikkatpelly/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/rithvikkatpelly/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/rithvikkatpelly/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -478,8 +480,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rithvikkatpelly/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/rithvikkatpelly/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rithvikkatpelly/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/rithvikkatpelly/Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
