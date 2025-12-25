@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rithvikkatpelly/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rithvikkatpelly/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/rithvikkatpelly/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/rithvikkatpelly/Leetcode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/rithvikkatpelly/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
