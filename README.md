@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rithvikkatpelly/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0932-beautiful-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rithvikkatpelly/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/1274-number-of-ships-in-a-rectangle) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0811-subdomain-visit-count](https://github.com/rithvikkatpelly/Leetcode/tree/master/0811-subdomain-visit-count) |
+| [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 ## Trie
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rithvikkatpelly/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Rolling Hash
 |  |
@@ -512,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Number Theory
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
