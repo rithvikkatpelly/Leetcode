@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/rithvikkatpelly/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rithvikkatpelly/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/rithvikkatpelly/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rithvikkatpelly/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/rithvikkatpelly/Leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rithvikkatpelly/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rithvikkatpelly/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Bucket Sort
 |  |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/rithvikkatpelly/Leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rithvikkatpelly/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Rolling Hash
 |  |
 | ------- |
