@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/rithvikkatpelly/Leetcode/tree/master/0277-find-the-celebrity) |
 | [0310-minimum-height-trees](https://github.com/rithvikkatpelly/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/rithvikkatpelly/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2076-process-restricted-friend-requests](https://github.com/rithvikkatpelly/Leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Bucket Sort
