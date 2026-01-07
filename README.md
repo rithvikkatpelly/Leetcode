@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/rithvikkatpelly/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/rithvikkatpelly/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Quickselect
 |  |
 | ------- |
