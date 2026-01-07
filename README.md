@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/rithvikkatpelly/Leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/rithvikkatpelly/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rithvikkatpelly/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rithvikkatpelly/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -598,5 +599,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/rithvikkatpelly/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
