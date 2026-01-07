@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/rithvikkatpelly/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/rithvikkatpelly/Leetcode/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/rithvikkatpelly/Leetcode/tree/master/0686-repeated-string-match) |
+| [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/rithvikkatpelly/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rithvikkatpelly/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/rithvikkatpelly/Leetcode/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0811-subdomain-visit-count](https://github.com/rithvikkatpelly/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0912-sort-an-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rithvikkatpelly/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0811-subdomain-visit-count](https://github.com/rithvikkatpelly/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rithvikkatpelly/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/rithvikkatpelly/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Sorting
 |  |
 | ------- |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rithvikkatpelly/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/rithvikkatpelly/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/rithvikkatpelly/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
