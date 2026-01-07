@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/rithvikkatpelly/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
+| [0687-longest-univalue-path](https://github.com/rithvikkatpelly/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0797-all-paths-from-source-to-target](https://github.com/rithvikkatpelly/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/rithvikkatpelly/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0687-longest-univalue-path](https://github.com/rithvikkatpelly/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/rithvikkatpelly/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0687-longest-univalue-path](https://github.com/rithvikkatpelly/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Quickselect
