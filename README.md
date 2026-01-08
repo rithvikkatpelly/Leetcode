@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/1274-number-of-ships-in-a-rectangle) |
+| [1584-min-cost-to-connect-all-points](https://github.com/rithvikkatpelly/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/rithvikkatpelly/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/rithvikkatpelly/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/rithvikkatpelly/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/rithvikkatpelly/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/rithvikkatpelly/Leetcode/tree/master/2076-process-restricted-friend-requests) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rithvikkatpelly/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1584-min-cost-to-connect-all-points](https://github.com/rithvikkatpelly/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/rithvikkatpelly/Leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -601,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/rithvikkatpelly/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/rithvikkatpelly/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
