@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0313-super-ugly-number) |
 | [0354-russian-doll-envelopes](https://github.com/rithvikkatpelly/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/rithvikkatpelly/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0494-target-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0494-target-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/rithvikkatpelly/Leetcode/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/rithvikkatpelly/Leetcode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/rithvikkatpelly/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
