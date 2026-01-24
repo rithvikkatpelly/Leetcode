@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rithvikkatpelly/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rithvikkatpelly/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0292-nim-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rithvikkatpelly/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rithvikkatpelly/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/rithvikkatpelly/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rithvikkatpelly/Leetcode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0093-restore-ip-addresses) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/0043-multiply-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
