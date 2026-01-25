@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rithvikkatpelly/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rithvikkatpelly/Leetcode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/rithvikkatpelly/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rithvikkatpelly/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rithvikkatpelly/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/rithvikkatpelly/Leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 ## Tree
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
