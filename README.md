@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rithvikkatpelly/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/rithvikkatpelly/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0292-nim-game) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rithvikkatpelly/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/rithvikkatpelly/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rithvikkatpelly/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rithvikkatpelly/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0055-jump-game) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rithvikkatpelly/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rithvikkatpelly/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/rithvikkatpelly/Leetcode/tree/master/0048-rotate-image) |
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 ## Tree
