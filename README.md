@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rithvikkatpelly/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rithvikkatpelly/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/rithvikkatpelly/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0292-nim-game) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rithvikkatpelly/Leetcode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/rithvikkatpelly/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rithvikkatpelly/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0088-merge-sorted-array) |
