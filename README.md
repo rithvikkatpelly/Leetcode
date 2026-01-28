@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rithvikkatpelly/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/rithvikkatpelly/Leetcode/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/rithvikkatpelly/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rithvikkatpelly/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/rithvikkatpelly/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
