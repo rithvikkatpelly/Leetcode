@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/rithvikkatpelly/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rithvikkatpelly/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rithvikkatpelly/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rithvikkatpelly/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/rithvikkatpelly/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rithvikkatpelly/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rithvikkatpelly/Leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/rithvikkatpelly/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rithvikkatpelly/Leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rithvikkatpelly/Leetcode/tree/master/0068-text-justification) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
