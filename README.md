@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rithvikkatpelly/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/rithvikkatpelly/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0292-nim-game) |
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/rithvikkatpelly/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rithvikkatpelly/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rithvikkatpelly/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/rithvikkatpelly/Leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0494-target-sum) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rithvikkatpelly/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/rithvikkatpelly/Leetcode/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
