@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/rithvikkatpelly/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rithvikkatpelly/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/rithvikkatpelly/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rithvikkatpelly/Leetcode/tree/master/0068-text-justification) |
