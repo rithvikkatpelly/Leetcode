@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0086-partition-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/rithvikkatpelly/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rithvikkatpelly/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0147-insertion-sort-list) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rithvikkatpelly/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/rithvikkatpelly/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/rithvikkatpelly/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rithvikkatpelly/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
