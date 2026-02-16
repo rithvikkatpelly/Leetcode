@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/rithvikkatpelly/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/rithvikkatpelly/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0242-valid-anagram) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/rithvikkatpelly/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/rithvikkatpelly/Leetcode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/rithvikkatpelly/Leetcode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0313-super-ugly-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rithvikkatpelly/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/rithvikkatpelly/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/rithvikkatpelly/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/rithvikkatpelly/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/rithvikkatpelly/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/rithvikkatpelly/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/rithvikkatpelly/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rithvikkatpelly/Leetcode/tree/master/0217-contains-duplicate) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rithvikkatpelly/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/rithvikkatpelly/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0140-word-break-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/rithvikkatpelly/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Sorting
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/rithvikkatpelly/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -826,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rithvikkatpelly/Leetcode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0140-word-break-ii) |
 | [0913-cat-and-mouse](https://github.com/rithvikkatpelly/Leetcode/tree/master/0913-cat-and-mouse) |
 ## Brainteaser
 |  |
