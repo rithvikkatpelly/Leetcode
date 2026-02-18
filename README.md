@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rithvikkatpelly/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rithvikkatpelly/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rithvikkatpelly/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/rithvikkatpelly/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/rithvikkatpelly/Leetcode/tree/master/0687-longest-univalue-path) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rithvikkatpelly/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/rithvikkatpelly/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/rithvikkatpelly/Leetcode/tree/master/0687-longest-univalue-path) |
