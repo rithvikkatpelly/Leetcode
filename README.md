@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/rithvikkatpelly/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/rithvikkatpelly/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/rithvikkatpelly/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/rithvikkatpelly/Leetcode/tree/master/0139-word-break) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rithvikkatpelly/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rithvikkatpelly/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0148-sort-list) |
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
