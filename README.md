@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rithvikkatpelly/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/rithvikkatpelly/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/rithvikkatpelly/Leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/rithvikkatpelly/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rithvikkatpelly/Leetcode/tree/master/0217-contains-duplicate) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/rithvikkatpelly/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rithvikkatpelly/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/rithvikkatpelly/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rithvikkatpelly/Leetcode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/rithvikkatpelly/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/rithvikkatpelly/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -895,4 +898,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rithvikkatpelly/Leetcode/tree/master/0130-surrounded-regions) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rithvikkatpelly/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
