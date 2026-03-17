@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/rithvikkatpelly/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/rithvikkatpelly/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rithvikkatpelly/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/rithvikkatpelly/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/rithvikkatpelly/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rithvikkatpelly/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/rithvikkatpelly/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/rithvikkatpelly/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rithvikkatpelly/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rithvikkatpelly/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rithvikkatpelly/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rithvikkatpelly/Leetcode/tree/master/0200-number-of-islands) |
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 ## Tree
@@ -898,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rithvikkatpelly/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rithvikkatpelly/Leetcode/tree/master/0200-number-of-islands) |
 ## Doubly-Linked List
 |  |
 | ------- |
