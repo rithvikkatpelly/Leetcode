@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/1274-number-of-ships-in-a-rectangle) |
+| [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rithvikkatpelly/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0280-wiggle-sort](https://github.com/rithvikkatpelly/Leetcode/tree/master/0280-wiggle-sort) |
 | [0324-wiggle-sort-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0860-lemonade-change](https://github.com/rithvikkatpelly/Leetcode/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rithvikkatpelly/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/rithvikkatpelly/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
 | ------- |
