@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/rithvikkatpelly/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0797-all-paths-from-source-to-target](https://github.com/rithvikkatpelly/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rithvikkatpelly/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/rithvikkatpelly/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/rithvikkatpelly/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/rithvikkatpelly/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/rithvikkatpelly/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Quickselect
