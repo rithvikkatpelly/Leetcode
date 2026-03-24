@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/0994-rotting-oranges) |
 | [1191-k-concatenation-maximum-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/rithvikkatpelly/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/0994-rotting-oranges) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/0994-rotting-oranges) |
+| [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 ## Tree
 |  |
 | ------- |
