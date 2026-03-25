@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/rithvikkatpelly/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1216-valid-palindrome-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1216-valid-palindrome-iii) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/rithvikkatpelly/Leetcode/tree/master/1392-longest-happy-prefix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/rithvikkatpelly/Leetcode/tree/master/0913-cat-and-mouse) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/1191-k-concatenation-maximum-sum) |
+| [1216-valid-palindrome-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1216-valid-palindrome-iii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rithvikkatpelly/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Recursion
