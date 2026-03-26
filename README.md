@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/rithvikkatpelly/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/rithvikkatpelly/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0292-nim-game) |
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
 | [0313-super-ugly-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0313-super-ugly-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/rithvikkatpelly/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rithvikkatpelly/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rithvikkatpelly/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rithvikkatpelly/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rithvikkatpelly/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rithvikkatpelly/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0189-rotate-array) |
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/rithvikkatpelly/Leetcode/tree/master/0259-3sum-smaller) |
 | [0277-find-the-celebrity](https://github.com/rithvikkatpelly/Leetcode/tree/master/0277-find-the-celebrity) |
