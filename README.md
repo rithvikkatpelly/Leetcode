@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0313-super-ugly-number) |
 | [0360-sort-transformed-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/rithvikkatpelly/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rithvikkatpelly/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/rithvikkatpelly/Leetcode/tree/master/0913-cat-and-mouse) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0360-sort-transformed-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0360-sort-transformed-array) |
 | [0368-largest-divisible-subset](https://github.com/rithvikkatpelly/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rithvikkatpelly/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rithvikkatpelly/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0406-queue-reconstruction-by-height](https://github.com/rithvikkatpelly/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/rithvikkatpelly/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rithvikkatpelly/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/rithvikkatpelly/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rithvikkatpelly/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/rithvikkatpelly/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rithvikkatpelly/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0731-my-calendar-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Queue
@@ -941,4 +945,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rithvikkatpelly/Leetcode/tree/master/0146-lru-cache) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rithvikkatpelly/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
