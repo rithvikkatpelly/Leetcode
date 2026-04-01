@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/rithvikkatpelly/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0406-queue-reconstruction-by-height](https://github.com/rithvikkatpelly/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithvikkatpelly/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0494-target-sum) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/rithvikkatpelly/Leetcode/tree/master/0280-wiggle-sort) |
 | [0324-wiggle-sort-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithvikkatpelly/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0860-lemonade-change](https://github.com/rithvikkatpelly/Leetcode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rithvikkatpelly/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rithvikkatpelly/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/rithvikkatpelly/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithvikkatpelly/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
