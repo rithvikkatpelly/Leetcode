@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/rithvikkatpelly/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/0224-basic-calculator) |
 | [0292-nim-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0292-nim-game) |
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
 | [0313-super-ugly-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0313-super-ugly-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rithvikkatpelly/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/rithvikkatpelly/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0269-alien-dictionary) |
 | [0389-find-the-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/0389-find-the-difference) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rithvikkatpelly/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rithvikkatpelly/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rithvikkatpelly/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithvikkatpelly/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/rithvikkatpelly/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0394-decode-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
