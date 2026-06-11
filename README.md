@@ -986,4 +986,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rithvikkatpelly/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/rithvikkatpelly/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
