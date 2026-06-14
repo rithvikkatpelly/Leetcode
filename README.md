@@ -993,4 +993,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/rithvikkatpelly/Leetcode/tree/master/1407-top-travellers) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rithvikkatpelly/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1532-the-most-recent-three-orders](https://github.com/rithvikkatpelly/Leetcode/tree/master/1532-the-most-recent-three-orders) |
 <!---LeetCode Topics End-->
