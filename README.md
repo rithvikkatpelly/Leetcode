@@ -993,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1075-project-employees-i) |
 | [1076-project-employees-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1076-project-employees-ii) |
 | [1077-project-employees-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1077-project-employees-iii) |
+| [1173-immediate-food-delivery-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1173-immediate-food-delivery-i) |
 | [1280-students-and-examinations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/rithvikkatpelly/Leetcode/tree/master/1407-top-travellers) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rithvikkatpelly/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
