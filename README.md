@@ -997,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1280-students-and-examinations) |
 | [1285-find-the-start-and-end-number-of-continuous-ranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/1285-find-the-start-and-end-number-of-continuous-ranges) |
 | [1407-top-travellers](https://github.com/rithvikkatpelly/Leetcode/tree/master/1407-top-travellers) |
+| [1421-npv-queries](https://github.com/rithvikkatpelly/Leetcode/tree/master/1421-npv-queries) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rithvikkatpelly/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1532-the-most-recent-three-orders](https://github.com/rithvikkatpelly/Leetcode/tree/master/1532-the-most-recent-three-orders) |
 <!---LeetCode Topics End-->
