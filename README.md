@@ -989,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [1068-product-sales-analysis-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1075-project-employees-i) |
 | [1076-project-employees-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1076-project-employees-ii) |
