@@ -999,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1083-sales-analysis-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1083-sales-analysis-ii) |
 | [1084-sales-analysis-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1173-immediate-food-delivery-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1173-immediate-food-delivery-i) |
+| [1193-monthly-transactions-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1194-tournament-winners](https://github.com/rithvikkatpelly/Leetcode/tree/master/1194-tournament-winners) |
 | [1280-students-and-examinations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1280-students-and-examinations) |
 | [1285-find-the-start-and-end-number-of-continuous-ranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/1285-find-the-start-and-end-number-of-continuous-ranges) |
