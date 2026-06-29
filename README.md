@@ -993,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0512-game-play-analysis-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0512-game-play-analysis-ii) |
 | [0534-game-play-analysis-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0534-game-play-analysis-iii) |
 | [0550-game-play-analysis-iv](https://github.com/rithvikkatpelly/Leetcode/tree/master/0550-game-play-analysis-iv) |
+| [0571-find-median-given-frequency-of-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0571-find-median-given-frequency-of-numbers) |
 | [1068-product-sales-analysis-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1075-project-employees-i) |
 | [1076-project-employees-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1076-project-employees-ii) |
