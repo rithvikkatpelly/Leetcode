@@ -1009,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-find-the-start-and-end-number-of-continuous-ranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/1285-find-the-start-and-end-number-of-continuous-ranges) |
 | [1294-weather-type-in-each-country](https://github.com/rithvikkatpelly/Leetcode/tree/master/1294-weather-type-in-each-country) |
 | [1308-running-total-for-different-genders](https://github.com/rithvikkatpelly/Leetcode/tree/master/1308-running-total-for-different-genders) |
+| [1321-restaurant-growth](https://github.com/rithvikkatpelly/Leetcode/tree/master/1321-restaurant-growth) |
 | [1407-top-travellers](https://github.com/rithvikkatpelly/Leetcode/tree/master/1407-top-travellers) |
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/rithvikkatpelly/Leetcode/tree/master/1412-find-the-quiet-students-in-all-exams) |
 | [1421-npv-queries](https://github.com/rithvikkatpelly/Leetcode/tree/master/1421-npv-queries) |
