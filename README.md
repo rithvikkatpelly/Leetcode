@@ -1011,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-weather-type-in-each-country](https://github.com/rithvikkatpelly/Leetcode/tree/master/1294-weather-type-in-each-country) |
 | [1308-running-total-for-different-genders](https://github.com/rithvikkatpelly/Leetcode/tree/master/1308-running-total-for-different-genders) |
 | [1321-restaurant-growth](https://github.com/rithvikkatpelly/Leetcode/tree/master/1321-restaurant-growth) |
+| [1336-number-of-transactions-per-visit](https://github.com/rithvikkatpelly/Leetcode/tree/master/1336-number-of-transactions-per-visit) |
 | [1407-top-travellers](https://github.com/rithvikkatpelly/Leetcode/tree/master/1407-top-travellers) |
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/rithvikkatpelly/Leetcode/tree/master/1412-find-the-quiet-students-in-all-exams) |
 | [1421-npv-queries](https://github.com/rithvikkatpelly/Leetcode/tree/master/1421-npv-queries) |
