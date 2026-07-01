@@ -1002,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1083-sales-analysis-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1083-sales-analysis-ii) |
 | [1084-sales-analysis-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1097-game-play-analysis-v](https://github.com/rithvikkatpelly/Leetcode/tree/master/1097-game-play-analysis-v) |
+| [1098-unpopular-books](https://github.com/rithvikkatpelly/Leetcode/tree/master/1098-unpopular-books) |
 | [1173-immediate-food-delivery-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1173-immediate-food-delivery-i) |
 | [1193-monthly-transactions-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1194-tournament-winners](https://github.com/rithvikkatpelly/Leetcode/tree/master/1194-tournament-winners) |
