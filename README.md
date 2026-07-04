@@ -1008,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/rithvikkatpelly/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1194-tournament-winners](https://github.com/rithvikkatpelly/Leetcode/tree/master/1194-tournament-winners) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/rithvikkatpelly/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1270-all-people-report-to-the-given-manager](https://github.com/rithvikkatpelly/Leetcode/tree/master/1270-all-people-report-to-the-given-manager) |
 | [1280-students-and-examinations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1280-students-and-examinations) |
 | [1285-find-the-start-and-end-number-of-continuous-ranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/1285-find-the-start-and-end-number-of-continuous-ranges) |
 | [1294-weather-type-in-each-country](https://github.com/rithvikkatpelly/Leetcode/tree/master/1294-weather-type-in-each-country) |
