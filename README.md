@@ -1017,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-running-total-for-different-genders](https://github.com/rithvikkatpelly/Leetcode/tree/master/1308-running-total-for-different-genders) |
 | [1321-restaurant-growth](https://github.com/rithvikkatpelly/Leetcode/tree/master/1321-restaurant-growth) |
 | [1336-number-of-transactions-per-visit](https://github.com/rithvikkatpelly/Leetcode/tree/master/1336-number-of-transactions-per-visit) |
+| [1369-get-the-second-most-recent-activity](https://github.com/rithvikkatpelly/Leetcode/tree/master/1369-get-the-second-most-recent-activity) |
 | [1384-total-sales-amount-by-year](https://github.com/rithvikkatpelly/Leetcode/tree/master/1384-total-sales-amount-by-year) |
 | [1407-top-travellers](https://github.com/rithvikkatpelly/Leetcode/tree/master/1407-top-travellers) |
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/rithvikkatpelly/Leetcode/tree/master/1412-find-the-quiet-students-in-all-exams) |
