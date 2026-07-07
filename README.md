@@ -1026,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1412-find-the-quiet-students-in-all-exams](https://github.com/rithvikkatpelly/Leetcode/tree/master/1412-find-the-quiet-students-in-all-exams) |
 | [1421-npv-queries](https://github.com/rithvikkatpelly/Leetcode/tree/master/1421-npv-queries) |
 | [1445-apples-oranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/1445-apples-oranges) |
+| [1501-countries-you-can-safely-invest-in](https://github.com/rithvikkatpelly/Leetcode/tree/master/1501-countries-you-can-safely-invest-in) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rithvikkatpelly/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1532-the-most-recent-three-orders](https://github.com/rithvikkatpelly/Leetcode/tree/master/1532-the-most-recent-three-orders) |
 <!---LeetCode Topics End-->
