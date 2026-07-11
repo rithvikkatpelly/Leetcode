@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/rithvikkatpelly/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rithvikkatpelly/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/rithvikkatpelly/Leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/rithvikkatpelly/Leetcode/tree/master/0259-3sum-smaller) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rithvikkatpelly/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/rithvikkatpelly/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/rithvikkatpelly/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rithvikkatpelly/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rithvikkatpelly/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -1043,4 +1047,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1501-countries-you-can-safely-invest-in](https://github.com/rithvikkatpelly/Leetcode/tree/master/1501-countries-you-can-safely-invest-in) |
 | [1517-find-users-with-valid-e-mails](https://github.com/rithvikkatpelly/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1532-the-most-recent-three-orders](https://github.com/rithvikkatpelly/Leetcode/tree/master/1532-the-most-recent-three-orders) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
