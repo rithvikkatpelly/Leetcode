@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1470-shuffle-the-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rithvikkatpelly/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
