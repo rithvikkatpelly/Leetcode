@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/rithvikkatpelly/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rithvikkatpelly/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1062-longest-repeating-substring](https://github.com/rithvikkatpelly/Leetcode/tree/master/1062-longest-repeating-substring) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1216-valid-palindrome-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1216-valid-palindrome-iii) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rithvikkatpelly/Leetcode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/rithvikkatpelly/Leetcode/tree/master/0913-cat-and-mouse) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1062-longest-repeating-substring](https://github.com/rithvikkatpelly/Leetcode/tree/master/1062-longest-repeating-substring) |
 | [1191-k-concatenation-maximum-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1216-valid-palindrome-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1216-valid-palindrome-iii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rithvikkatpelly/Leetcode/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1062-longest-repeating-substring](https://github.com/rithvikkatpelly/Leetcode/tree/master/1062-longest-repeating-substring) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rithvikkatpelly/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Counting Sort
@@ -906,17 +909,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rithvikkatpelly/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1062-longest-repeating-substring](https://github.com/rithvikkatpelly/Leetcode/tree/master/1062-longest-repeating-substring) |
 | [1392-longest-happy-prefix](https://github.com/rithvikkatpelly/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rithvikkatpelly/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1062-longest-repeating-substring](https://github.com/rithvikkatpelly/Leetcode/tree/master/1062-longest-repeating-substring) |
 | [1392-longest-happy-prefix](https://github.com/rithvikkatpelly/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Suffix Array
 |  |
 | ------- |
+| [1062-longest-repeating-substring](https://github.com/rithvikkatpelly/Leetcode/tree/master/1062-longest-repeating-substring) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Simulation
 |  |
