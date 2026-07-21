@@ -1,0 +1,18 @@
+class Solution:
+    def productExceptSelf(self, nums):
+        n = len(nums)
+        answer = [1] * n
+
+        # answer[i] ends up holding product of all elements before i
+        prefix = 1
+        for i in range(n):
+            answer[i] = prefix
+            prefix *= nums[i]
+
+        # multiply in product of all elements after i
+        suffix = 1
+        for i in range(n - 1, -1, -1):
+            answer[i] *= suffix
+            suffix *= nums[i]
+
+        return answer
