@@ -1,21 +1,20 @@
 class Solution:
     def trap(self, height):
+        if not height:
+            return 0
+        
         left, right = 0, len(height) - 1
-        left_max = right_max = 0
+        left_max, right_max = height[left], height[right]
         water = 0
-
+        
         while left < right:
-            if height[left] < height[right]:
-                if height[left] >= left_max:
-                    left_max = height[left]  # new left wall found
-                else:
-                    water += left_max - height[left]  # trap water
+            if left_max < right_max:
                 left += 1
+                left_max = max(left_max, height[left])
+                water += left_max - height[left]
             else:
-                if height[right] >= right_max:
-                    right_max = height[right]  # new right wall found
-                else:
-                    water += right_max - height[right]  # trap water
                 right -= 1
-
-        return water 
+                right_max = max(right_max, height[right])
+                water += right_max - height[right]
+        
+        return water
