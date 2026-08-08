@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rithvikkatpelly/Leetcode/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/rithvikkatpelly/Leetcode/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/rithvikkatpelly/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/rithvikkatpelly/Leetcode/tree/master/0860-lemonade-change) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rithvikkatpelly/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/rithvikkatpelly/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/rithvikkatpelly/Leetcode/tree/master/0739-daily-temperatures) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rithvikkatpelly/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rithvikkatpelly/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rithvikkatpelly/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/rithvikkatpelly/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/rithvikkatpelly/Leetcode/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rithvikkatpelly/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rithvikkatpelly/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Depth-First Search
