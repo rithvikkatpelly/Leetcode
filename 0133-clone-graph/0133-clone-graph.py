@@ -7,22 +7,25 @@ class Node:
 """
 
 class Solution:
-    def cloneGraph(self, node):
-        if node is None:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        if not node:
             return None
-        
-        visited = {}
-        
+
+        visited = {}  # maps original node -> cloned node
+
         def dfs(original):
             if original in visited:
                 return visited[original]
-            
-            copy = Node(original.val)
-            visited[original] = copy
-            
+
+            # Create a clone for this node (without neighbors yet) and register it
+            clone = Node(original.val)
+            visited[original] = clone
+
+            # Recursively clone all neighbors and attach them
             for neighbor in original.neighbors:
-                copy.neighbors.append(dfs(neighbor))
-            
-            return copy
-        
+                clone.neighbors.append(dfs(neighbor))
+
+            return clone
+
         return dfs(node)
+        
