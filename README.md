@@ -1095,4 +1095,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rithvikkatpelly/Leetcode/tree/master/0207-course-schedule) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rithvikkatpelly/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rithvikkatpelly/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
