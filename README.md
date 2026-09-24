@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/rithvikkatpelly/Leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/rithvikkatpelly/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/rithvikkatpelly/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/rithvikkatpelly/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/rithvikkatpelly/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/rithvikkatpelly/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
 ## Greedy
 |  |
 | ------- |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/0994-rotting-oranges) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
 ## Tree
 |  |
 | ------- |
