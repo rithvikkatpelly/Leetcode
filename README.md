@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/rithvikkatpelly/Leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2063-vowels-of-all-substrings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [3115-maximum-prime-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/3115-maximum-prime-difference) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/rithvikkatpelly/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2063-vowels-of-all-substrings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Dynamic Programming
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1216-valid-palindrome-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1216-valid-palindrome-iii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rithvikkatpelly/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2063-vowels-of-all-substrings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rithvikkatpelly/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Recursion
 |  |
@@ -1024,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rithvikkatpelly/Leetcode/tree/master/0062-unique-paths) |
+| [2063-vowels-of-all-substrings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Geometry
 |  |
 | ------- |
