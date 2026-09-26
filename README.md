@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1492-the-kth-factor-of-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/rithvikkatpelly/Leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [3115-maximum-prime-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/3115-maximum-prime-difference) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1672-richest-customer-wealth](https://github.com/rithvikkatpelly/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/rithvikkatpelly/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/rithvikkatpelly/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rithvikkatpelly/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2898-maximum-linear-stock-score](https://github.com/rithvikkatpelly/Leetcode/tree/master/2898-maximum-linear-stock-score) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rithvikkatpelly/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0811-subdomain-visit-count](https://github.com/rithvikkatpelly/Leetcode/tree/master/0811-subdomain-visit-count) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Topological Sort
 |  |
 | ------- |
