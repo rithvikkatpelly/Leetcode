@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/rithvikkatpelly/Leetcode/tree/master/1629-slowest-key) |
 | [1664-ways-to-make-a-fair-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1672-richest-customer-wealth](https://github.com/rithvikkatpelly/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1711-count-good-meals](https://github.com/rithvikkatpelly/Leetcode/tree/master/1711-count-good-meals) |
 | [1732-find-the-highest-altitude](https://github.com/rithvikkatpelly/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1711-count-good-meals](https://github.com/rithvikkatpelly/Leetcode/tree/master/1711-count-good-meals) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
