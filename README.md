@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rithvikkatpelly/Leetcode/tree/master/0274-h-index) |
 | [0280-wiggle-sort](https://github.com/rithvikkatpelly/Leetcode/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/rithvikkatpelly/Leetcode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/rithvikkatpelly/Leetcode/tree/master/0289-game-of-life) |
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
 | [0300-longest-increasing-subsequence](https://github.com/rithvikkatpelly/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/rithvikkatpelly/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rithvikkatpelly/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rithvikkatpelly/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/rithvikkatpelly/Leetcode/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/rithvikkatpelly/Leetcode/tree/master/0289-game-of-life) |
 | [0296-best-meeting-point](https://github.com/rithvikkatpelly/Leetcode/tree/master/0296-best-meeting-point) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rithvikkatpelly/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rithvikkatpelly/Leetcode/tree/master/0068-text-justification) |
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/rithvikkatpelly/Leetcode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
+| [0289-game-of-life](https://github.com/rithvikkatpelly/Leetcode/tree/master/0289-game-of-life) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
