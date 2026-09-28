@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/rithvikkatpelly/Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2898-maximum-linear-stock-score](https://github.com/rithvikkatpelly/Leetcode/tree/master/2898-maximum-linear-stock-score) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rithvikkatpelly/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3115-maximum-prime-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/3115-maximum-prime-difference) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rithvikkatpelly/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2898-maximum-linear-stock-score](https://github.com/rithvikkatpelly/Leetcode/tree/master/2898-maximum-linear-stock-score) |
 ## Trie
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1672-richest-customer-wealth](https://github.com/rithvikkatpelly/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
+| [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/rithvikkatpelly/Leetcode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Number Theory
 |  |
 | ------- |
