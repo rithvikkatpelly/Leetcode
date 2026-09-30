@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/1274-number-of-ships-in-a-rectangle) |
+| [1329-sort-the-matrix-diagonally](https://github.com/rithvikkatpelly/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1528-shuffle-string) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/rithvikkatpelly/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1329-sort-the-matrix-diagonally](https://github.com/rithvikkatpelly/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/rithvikkatpelly/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2092-find-all-people-with-secret](https://github.com/rithvikkatpelly/Leetcode/tree/master/2092-find-all-people-with-secret) |
 ## String Matching
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rithvikkatpelly/Leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/0994-rotting-oranges) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1329-sort-the-matrix-diagonally](https://github.com/rithvikkatpelly/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1672-richest-customer-wealth](https://github.com/rithvikkatpelly/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
 | [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
