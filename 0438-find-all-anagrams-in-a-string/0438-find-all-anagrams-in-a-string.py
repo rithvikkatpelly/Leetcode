@@ -1,38 +1,18 @@
-class Solution(object):
-    def findAnagrams(self, s, p):
-        """
-        :type s: str
-        :type p: str
-        :rtype: List[int]
-        """
-        n, k = len(s), len(p)
-        if n < k:
+class Solution:
+    def findAnagrams(self, s: str, p: str) -> List[int]:
+        if len(p) > len(s):
             return []
-
-        # Frequency arrays for 'a'..'z'
         need = [0] * 26
         window = [0] * 26
-
         for ch in p:
-            need[ord(ch) - ord('a')] += 1
-
-        # Initialize first window
-        for i in range(k):
-            window[ord(s[i]) - ord('a')] += 1
+            need[ord(ch) - 97] += 1
 
         res = []
-        if window == need:
-            res.append(0)
-
-        # Slide the window
-        for i in range(k, n):
-            # Add new right char
-            window[ord(s[i]) - ord('a')] += 1
-            # Remove old left char
-            left_char_idx = ord(s[i - k]) - ord('a')
-            window[left_char_idx] -= 1
-
+        m = len(p)
+        for i, ch in enumerate(s):
+            window[ord(ch) - 97] += 1
+            if i >= m:
+                window[ord(s[i - m]) - 97] -= 1
             if window == need:
-                res.append(i - k + 1)
-
-        return res
+                res.append(i - m + 1)
+        return res    
