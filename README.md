@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/rithvikkatpelly/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1528-shuffle-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1528-shuffle-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rithvikkatpelly/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/rithvikkatpelly/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1711-count-good-meals](https://github.com/rithvikkatpelly/Leetcode/tree/master/1711-count-good-meals) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rithvikkatpelly/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0811-subdomain-visit-count](https://github.com/rithvikkatpelly/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rithvikkatpelly/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/rithvikkatpelly/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 ## Topological Sort
