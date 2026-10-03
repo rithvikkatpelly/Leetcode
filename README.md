@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1629-slowest-key](https://github.com/rithvikkatpelly/Leetcode/tree/master/1629-slowest-key) |
 | [1768-merge-strings-alternately](https://github.com/rithvikkatpelly/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rithvikkatpelly/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2063-vowels-of-all-substrings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Dynamic Programming
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/rithvikkatpelly/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1711-count-good-meals](https://github.com/rithvikkatpelly/Leetcode/tree/master/1711-count-good-meals) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rithvikkatpelly/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
