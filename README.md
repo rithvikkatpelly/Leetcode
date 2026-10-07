@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/rithvikkatpelly/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2364-count-number-of-bad-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [3115-maximum-prime-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/3115-maximum-prime-difference) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/rithvikkatpelly/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## String
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rithvikkatpelly/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3115-maximum-prime-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3242-design-neighbor-sum-service](https://github.com/rithvikkatpelly/Leetcode/tree/master/3242-design-neighbor-sum-service) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/rithvikkatpelly/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/rithvikkatpelly/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rithvikkatpelly/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rithvikkatpelly/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/rithvikkatpelly/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rithvikkatpelly/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/rithvikkatpelly/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -1057,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3115-maximum-prime-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/3115-maximum-prime-difference) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/rithvikkatpelly/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1179,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rithvikkatpelly/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/rithvikkatpelly/Leetcode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
