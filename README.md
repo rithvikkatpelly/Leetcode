@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rithvikkatpelly/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
+| [1260-shift-2d-grid](https://github.com/rithvikkatpelly/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/rithvikkatpelly/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/rithvikkatpelly/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/rithvikkatpelly/Leetcode/tree/master/0994-rotting-oranges) |
 | [1210-minimum-moves-to-reach-target-with-rotations](https://github.com/rithvikkatpelly/Leetcode/tree/master/1210-minimum-moves-to-reach-target-with-rotations) |
+| [1260-shift-2d-grid](https://github.com/rithvikkatpelly/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/rithvikkatpelly/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1672-richest-customer-wealth](https://github.com/rithvikkatpelly/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0158-read-n-characters-given-read4-ii-call-multiple-times](https://github.com/rithvikkatpelly/Leetcode/tree/master/0158-read-n-characters-given-read4-ii-call-multiple-times) |
 | [0289-game-of-life](https://github.com/rithvikkatpelly/Leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/rithvikkatpelly/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1260-shift-2d-grid](https://github.com/rithvikkatpelly/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
