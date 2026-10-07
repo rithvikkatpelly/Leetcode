@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2898-maximum-linear-stock-score](https://github.com/rithvikkatpelly/Leetcode/tree/master/2898-maximum-linear-stock-score) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/rithvikkatpelly/Leetcode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3115-maximum-prime-difference](https://github.com/rithvikkatpelly/Leetcode/tree/master/3115-maximum-prime-difference) |
+| [3242-design-neighbor-sum-service](https://github.com/rithvikkatpelly/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Two Pointers
 |  |
 | ------- |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/rithvikkatpelly/Leetcode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2898-maximum-linear-stock-score](https://github.com/rithvikkatpelly/Leetcode/tree/master/2898-maximum-linear-stock-score) |
+| [3242-design-neighbor-sum-service](https://github.com/rithvikkatpelly/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Trie
 |  |
 | ------- |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/rithvikkatpelly/Leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3242-design-neighbor-sum-service](https://github.com/rithvikkatpelly/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Queue
 |  |
 | ------- |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3242-design-neighbor-sum-service](https://github.com/rithvikkatpelly/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Tree
 |  |
 | ------- |
@@ -1045,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3242-design-neighbor-sum-service](https://github.com/rithvikkatpelly/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Number Theory
 |  |
 | ------- |
