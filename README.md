@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/rithvikkatpelly/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1861-rotating-the-box](https://github.com/rithvikkatpelly/Leetcode/tree/master/1861-rotating-the-box) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/rithvikkatpelly/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/rithvikkatpelly/Leetcode/tree/master/1711-count-good-meals) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rithvikkatpelly/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/rithvikkatpelly/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2352-equal-row-and-column-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/rithvikkatpelly/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/rithvikkatpelly/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0731-my-calendar-ii](https://github.com/rithvikkatpelly/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/rithvikkatpelly/Leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/rithvikkatpelly/Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/rithvikkatpelly/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3242-design-neighbor-sum-service](https://github.com/rithvikkatpelly/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Queue
