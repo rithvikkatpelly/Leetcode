@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/rithvikkatpelly/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rithvikkatpelly/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rithvikkatpelly/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/rithvikkatpelly/Leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1257-smallest-common-region](https://github.com/rithvikkatpelly/Leetcode/tree/master/1257-smallest-common-region) |
 | [1260-shift-2d-grid](https://github.com/rithvikkatpelly/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1274-number-of-ships-in-a-rectangle](https://github.com/rithvikkatpelly/Leetcode/tree/master/1274-number-of-ships-in-a-rectangle) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rithvikkatpelly/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1329-sort-the-matrix-diagonally](https://github.com/rithvikkatpelly/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1386-cinema-seat-allocation](https://github.com/rithvikkatpelly/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/rithvikkatpelly/Leetcode/tree/master/1470-shuffle-the-array) |
