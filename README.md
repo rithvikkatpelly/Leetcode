@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rithvikkatpelly/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1528-shuffle-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rithvikkatpelly/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1592-rearrange-spaces-between-words](https://github.com/rithvikkatpelly/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1629-slowest-key](https://github.com/rithvikkatpelly/Leetcode/tree/master/1629-slowest-key) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rithvikkatpelly/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/rithvikkatpelly/Leetcode/tree/master/1768-merge-strings-alternately) |
